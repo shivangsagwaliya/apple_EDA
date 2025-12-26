@@ -11,7 +11,7 @@ Product Quality: Analyzing warranty claim rates and "Void" percentages to detect
 
 Store Performance: calculating Year-over-Year (YoY) growth and revenue density per region.
 
-🗂️ ## Database Schema
+## 🗂️  Database Schema
 The dataset consists of 5 relational tables organized in a Star Schema structure.
 
 1. stores
@@ -79,7 +79,7 @@ sale_id (FK): Links to the original transaction in sales.
 
 repair_status: Status of the claim (e.g., 'Paid Repaired', 'Warranty Void', 'Repaired').
 
-🚀 ## Key Business Problems Solved
+##🚀 Key Business Problems Solved
 This project uses complex SQL queries to answer critical business questions:
 
 1. Performance Optimization
