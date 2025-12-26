@@ -79,7 +79,7 @@ sale_id (FK): Links to the original transaction in sales.
 
 repair_status: Status of the claim (e.g., 'Paid Repaired', 'Warranty Void', 'Repaired').
 
-##🚀 Key Business Problems Solved
+## 🚀 Key Business Problems Solved
 This project uses complex SQL queries to answer critical business questions:
 
 1. Performance Optimization
