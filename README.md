@@ -1,6 +1,6 @@
 # Apple Retail Sales & Warranty Analytics (SQL Project)
 
-📌## Project Overview
+## 📌 Project Overview
 This project is an advanced SQL-based Exploratory Data Analysis (EDA) of a mock Apple retail dataset. The goal is to solve real-world business problems related to sales performance, product lifecycle trends, and warranty risk analysis.
 
 By analyzing over 1 million transaction records, this project derives actionable insights into:
